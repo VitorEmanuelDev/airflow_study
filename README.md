@@ -1,4 +1,4 @@
-#Project Setup and Execution
+# Project Setup and Execution
 
 This document provides instructions on how to set up and run the Airflow project.
 
